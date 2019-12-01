@@ -1,0 +1,11 @@
+[package]
+name = "advent-of-code-2019"
+version = "99.99.99"
+authors = ["Moony"]
+description = "really bad AoC submissions"
+license = "MIT"
+edition = "2018"
+
+[dependencies]
+aoc-runner = "*"
+aoc-runner-derive = "*"
